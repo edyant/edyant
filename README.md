@@ -10,6 +10,7 @@
 ---
 
 ## 🚀 About Edyant Labs
+![Profile Views](https://komarev.com/ghpvc/?username=edyant&color=00D4FF&style=for-the-badge)
 
 Edyant transforms academic data into actionable insights for individuals and organizations alike. From parents tracking a child's development to institutions managing hundreds of learners, we make educational data meaningful and accessible.
 
@@ -34,7 +35,6 @@ Edyant transforms academic data into actionable insights for individuals and org
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=edyant&color=00D4FF&style=for-the-badge)
 
 </div>
 
