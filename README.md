@@ -1,5 +1,5 @@
 # 🎓 Edyant Labs
-### *Academic Insights, Elegantly Delivered.*
+### *Transforming Educational Data Into Meaningful Insights.*
 
 <div align="center">
 
@@ -34,57 +34,13 @@ Edyant transforms academic data into actionable insights for individuals and org
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-### 📊 Real-Time Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
-
-### 🔥 Contribution Metrics
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
-
-### 🏆 Achievement Gallery
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-### 📊 Detailed Activity Overview
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=5.5)
-
-</div>
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF)
-
-</div>
-
-### 📊 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edyant&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 *"Transforming Educational Data Into Meaningful Insights"*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=edyant&color=00D4FF&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
 
 **✨ This profile README is crafted with ❤️ by [Edyant Labs](https://github.com/edyant)**
 
